@@ -53,6 +53,7 @@ Self-taught developer,love to automate and my family (not specifically in that o
 ### 📜 Latest Posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Setting up my git facelift](https://dev.to/visko93/setting-up-my-git-facelift-1477)
 <!-- BLOG-POST-LIST:END -->
 
@@ -75,19 +76,15 @@ Self-taught developer,love to automate and my family (not specifically in that o
 
 <!--END_SECTION:activity-->
 
-## |
+<br>
+<br>
 
-## |
+---
 
-## |
-
-[![ReadMe Card](https://github-readme-stats-vsko.vercel.app/api/pin/?username=visko93&repo=Ecoleta_NWL&theme=dark)](https://github.com/visko93/github-readme-stats)
-
-[![ReadMe Card](https://github-readme-stats-vsko.vercel.app/api/pin/?username=visko93&repo=github_battle&theme=dark)](https://github.com/visko93/github_battle)
-
-[![ReadMe Card](https://github-readme-stats-vsko.vercel.app/api/pin/?username=visko93&repo=MovieScrap&theme=dark)](https://github.com/visko93/MovieScrap)
-
-[![ReadMe Card](https://github-readme-stats-vsko.vercel.app/api/pin/?username=visko93&repo=BeerApp&theme=dark)](https://github.com/visko93/BeerApp)
+|                                                                            Repositories                                                                             |                                                                                                                                                                 |
+| :-----------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| [![ReadMe Card](https://github-readme-stats-vsko.vercel.app/api/pin/?username=visko93&repo=Ecoleta_NWL&theme=dark)](https://github.com/visko93/github-readme-stats) | [![ReadMe Card](https://github-readme-stats-vsko.vercel.app/api/pin/?username=visko93&repo=github_battle&theme=dark)](https://github.com/visko93/github_battle) |
+|      [![ReadMe Card](https://github-readme-stats-vsko.vercel.app/api/pin/?username=visko93&repo=MovieScrap&theme=dark)](https://github.com/visko93/MovieScrap)      |       [![ReadMe Card](https://github-readme-stats-vsko.vercel.app/api/pin/?username=visko93&repo=BeerApp&theme=dark)](https://github.com/visko93/BeerApp)       |
 
 [website]: https://visko93.github.io/
 [course]: #
