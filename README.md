@@ -51,9 +51,7 @@ Self-taught developer,love to automate and my family (not specifically in that o
 ### 📜 Latest Posts
 
 <!-- BLOG-POST-LIST:START -->
-
-- [Deploy Next.js on Netlify in ONE click!! | Next.js Build Plugin on Netlify](https://www.youtube.com/watch?v=NhWCEdja9W4)
-
+- [Setting up my git facelift](https://dev.to/visko93/setting-up-my-git-facelift-1477)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more posts...](https://dev.to/visko93)
