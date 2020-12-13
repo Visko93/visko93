@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=visko93.com&style=for-the-badge&url=https://visko93.github.io/)](https://visko93.github.io/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/vskonicezny?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=VSkonicezny)
-[![Linkedin: Vinicius Skonicezny](https://img.shields.io/badge/-Visko93-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/viniskonicezny/)](https://www.linkedin.com/in/viniskonicezny/)
+[![LinkediIn](https://img.shields.io/badge/LinkedIn-Vinicius%20Skonicezny-blue?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/viniskonicezny/)
 
 Self-taught developer,love to automate and my family (not specifically in that order 😅)
 
