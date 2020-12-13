@@ -51,13 +51,8 @@ Self-taught developer,love to automate and my family (not specifically in that o
 ### 📜 Latest Posts
 
 <!-- BLOG-POST-LIST:START -->
-<<<<<<< HEAD
 
-- [PlaceHolder](https://www.youtube.com/watch?v=NhWCEdja9W4)
-
-=======
 - [Setting up my git facelift](https://dev.to/visko93/setting-up-my-git-facelift-1477)
->>>>>>> 24d579e5c70879a393151b09cc59341d02d88b23
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more posts...](https://dev.to/visko93)
