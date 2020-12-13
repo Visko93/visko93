@@ -1,7 +1,7 @@
 ### Hi there, I'm [Vinicius](https://twitter.com/VSkonicezny) 👋
 
 [![Website](https://img.shields.io/website?label=visko93.com&style=for-the-badge&url=https://visko93.github.io/)](https://visko93.github.io/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/vskonicezny?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=ViniciusSkonicezzny)
+[![Twitter Follow](https://img.shields.io/twitter/follow/vskonicezny?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=VSkonicezny)
 
 Self-taught developer,love to automate and my family (not specifically in that order 😅)
 
@@ -88,7 +88,7 @@ Self-taught developer,love to automate and my family (not specifically in that o
 
 [website]: https://visko93.github.io/
 [course]: #
-[twitter]: #
+[twitter]: https://twitter.com/VSkonicezny
 [youtube]: #
 [instagram]: https://instagram.com/vskonicezny
 [linkedin]: https://www.linkedin.com/in/viniskonicezny/
