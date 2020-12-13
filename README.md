@@ -10,10 +10,6 @@ Self-taught developer,love to automate and my family (not specifically in that o
 - 🥅 2020 Goals: Mastering the basic, and shipping more
 - 🥋 I love sports, specially jiu-jtsu
 
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Vini Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
-
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -53,6 +49,7 @@ Self-taught developer,love to automate and my family (not specifically in that o
 ### 📜 Latest Posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Setting up my git facelift](https://dev.to/visko93/setting-up-my-git-facelift-1477)
 <!-- BLOG-POST-LIST:END -->
 
