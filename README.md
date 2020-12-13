@@ -1,16 +1,14 @@
-### Hi there, I'm Jesse - aka [codeSTACKr][website] 👋
+### Hi there, I'm [Vinicius](https://twitter.com/VSkonicezny) 👋
 
 [![Website](https://img.shields.io/website?label=visko93.com&style=for-the-badge&url=https://visko93.github.io/)](https://visko93.github.io/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/vskonicezny?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=ViniciusSkonicezzny)
 
-|                                                    |                                                                              |
-| -------------------------------------------------: | :--------------------------------------------------------------------------- |
-| ## I'm a Husband, Father, Developer, and Teacher!! | - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]! |
+Self-taught developer,love to automate and my family (not specifically in that order 😅)
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 🌱 I’m currently learning everything (Not Really🤣
+- 👯 international hackathons are doubly defying
+- 🥅 2020 Goals: Mastering the basic, and shipping more
+- 🥋 I love sports, specially jiu-jtsu
 
 ### Spotify Playing 🎧
 
@@ -52,11 +50,11 @@
 
 ### 📜 Latest Posts
 
-<!-- DEV,TO:START -->
+<!-- BLOG-POST-LIST:START -->
 
 - [Deploy Next.js on Netlify in ONE click!! | Next.js Build Plugin on Netlify](https://www.youtube.com/watch?v=NhWCEdja9W4)
 
-<!-- DEV,TO:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ➡️ [more posts...](https://dev.to/visko93)
 
