@@ -62,8 +62,9 @@ Self-taught developer,love to automate and my family (not specifically in that o
 ---
 
 <summary>:zap: GitHub Stats</summary>
-<hr> 
-[![Vini's github stats](https://github-readme-stats.vercel.app/api?username=visko93)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=dark)
+<hr>
+
+![Vini's github stats](https://github-readme-stats.vercel.app/api?username=visko93&show_icons=true&theme=dark)
 
 <br>
 <br>
