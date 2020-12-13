@@ -71,8 +71,24 @@ Self-taught developer,love to automate and my family (not specifically in that o
 <summary>:zap: Recent GitHub Activity</summary>
 <hr>
 <!--START_SECTION:activity-->
+
 1. ❌ Closed PR [#14](https://github.com/codeSTACKr/codeSTACKr/pull/14) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
+
 <!--END_SECTION:activity-->
+
+## |
+
+## |
+
+## |
+
+[![ReadMe Card](https://github-readme-stats-vsko.vercel.app/api/pin/?username=visko93&repo=Ecoleta_NWL&theme=dark)](https://github.com/visko93/github-readme-stats)
+
+[![ReadMe Card](https://github-readme-stats-vsko.vercel.app/api/pin/?username=visko93&repo=github_battle&theme=dark)](https://github.com/visko93/github_battle)
+
+[![ReadMe Card](https://github-readme-stats-vsko.vercel.app/api/pin/?username=visko93&repo=MovieScrap&theme=dark)](https://github.com/visko93/MovieScrap)
+
+[![ReadMe Card](https://github-readme-stats-vsko.vercel.app/api/pin/?username=visko93&repo=BeerApp&theme=dark)](https://github.com/visko93/BeerApp)
 
 [website]: https://visko93.github.io/
 [course]: #
