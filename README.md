@@ -53,7 +53,6 @@ Self-taught developer,love to automate and my family (not specifically in that o
 ### 📜 Latest Posts
 
 <!-- BLOG-POST-LIST:START -->
-
 - [Setting up my git facelift](https://dev.to/visko93/setting-up-my-git-facelift-1477)
 <!-- BLOG-POST-LIST:END -->
 
@@ -64,7 +63,7 @@ Self-taught developer,love to automate and my family (not specifically in that o
 <summary>:zap: GitHub Stats</summary>
 <hr>
 
-![Vini's github stats](https://github-readme-stats.vercel.app/api?username=visko93&show_icons=true&theme=dark)
+![Vini's github stats](https://github-readme-stats-vsko.vercel.app/api?username=visko93&show_icons=true&theme=dark)
 
 <br>
 <br>
