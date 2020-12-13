@@ -55,25 +55,20 @@ Self-taught developer,love to automate and my family (not specifically in that o
 - [Setting up my git facelift](https://dev.to/visko93/setting-up-my-git-facelift-1477)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more posts...](https://dev.to/visko93)
+➕ [more posts...](https://dev.to/visko93)
 
 ---
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. ❌ Closed PR [#14](https://github.com/codeSTACKr/codeSTACKr/pull/14) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-<!--END_SECTION:activity-->
-
-</details>
-
-<details>
   <summary>:zap: GitHub Stats</summary>
 
 [![Vini's github stats](https://github-readme-stats.vercel.app/api?username=visko93)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=dark)
 
-</details>
+<summary>:zap: Recent GitHub Activity</summary>
+
+<!--START_SECTION:activity-->
+
+1. ❌ Closed PR [#14](https://github.com/codeSTACKr/codeSTACKr/pull/14) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
+<!--END_SECTION:activity-->
 
 [website]: https://visko93.github.io/
 [course]: #
