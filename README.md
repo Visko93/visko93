@@ -72,8 +72,6 @@ Self-taught developer,love to automate and my family (not specifically in that o
 <hr>
 <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#14](https://github.com/codeSTACKr/codeSTACKr/pull/14) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-
 <!--END_SECTION:activity-->
 
 <br>
