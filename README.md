@@ -53,7 +53,6 @@ Self-taught developer,love to automate and my family (not specifically in that o
 ### 📜 Latest Posts
 
 <!-- BLOG-POST-LIST:START -->
-
 - [Setting up my git facelift](https://dev.to/visko93/setting-up-my-git-facelift-1477)
 <!-- BLOG-POST-LIST:END -->
 
