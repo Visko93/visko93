@@ -52,7 +52,7 @@ Self-taught developer,love to automate and my family (not specifically in that o
 
 <!-- BLOG-POST-LIST:START -->
 
-- [Deploy Next.js on Netlify in ONE click!! | Next.js Build Plugin on Netlify](https://www.youtube.com/watch?v=NhWCEdja9W4)
+- [PlaceHolder](https://www.youtube.com/watch?v=NhWCEdja9W4)
 
 <!-- BLOG-POST-LIST:END -->
 
@@ -65,10 +65,6 @@ Self-taught developer,love to automate and my family (not specifically in that o
   
 <!--START_SECTION:activity-->
 1. ❌ Closed PR [#14](https://github.com/codeSTACKr/codeSTACKr/pull/14) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-2. 🗣 Commented on [#14](https://github.com/codeSTACKr/codeSTACKr/issues/14) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-3. ❌ Closed PR [#7](https://github.com/codeSTACKr/codeSTACKr/pull/7) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-4. 🎉 Merged PR [#6](https://github.com/codeSTACKr/codeSTACKr/pull/6) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-5. 💪 Opened PR [#259](https://github.com/florinpop17/app-ideas/pull/259) in [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas)
 <!--END_SECTION:activity-->
 
 </details>
@@ -76,7 +72,7 @@ Self-taught developer,love to automate and my family (not specifically in that o
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="visko93 github Stats" src="https://github-readme-stats.visko93.vercel.app/api?username=visko93&show_icons=true&hide_border=true?theme=dark" />
+[![Vini's github stats](https://github-readme-stats.vercel.app/api?username=visko93)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=dark)
 
 </details>
 
