@@ -72,7 +72,7 @@ Self-taught developer,love to automate and my family (not specifically in that o
 <hr>
 <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#14](https://github.com/codeSTACKr/codeSTACKr/pull/14) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
+1. ❗️ Opened issue [#4](https://github.com/Visko93/Backend_BetheHero/issues/4) in [Visko93/Backend_BetheHero](https://github.com/Visko93/Backend_BetheHero)
 
 <!--END_SECTION:activity-->
 
