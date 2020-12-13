@@ -48,6 +48,8 @@ Self-taught developer,love to automate and my family (not specifically in that o
 
 ---
 
+## <br>
+
 ### 📜 Latest Posts
 
 <!-- BLOG-POST-LIST:START -->
@@ -59,14 +61,15 @@ Self-taught developer,love to automate and my family (not specifically in that o
 
 ---
 
-  <summary>:zap: GitHub Stats</summary>
-
+<summary>:zap: GitHub Stats</summary>
+<hr> 
 [![Vini's github stats](https://github-readme-stats.vercel.app/api?username=visko93)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=dark)
 
+<br>
+<br>
 <summary>:zap: Recent GitHub Activity</summary>
-
+<hr>
 <!--START_SECTION:activity-->
-
 1. ❌ Closed PR [#14](https://github.com/codeSTACKr/codeSTACKr/pull/14) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
 <!--END_SECTION:activity-->
 
