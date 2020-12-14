@@ -4,9 +4,9 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/vskonicezny?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=VSkonicezny)
 [![LinkediIn](https://img.shields.io/badge/LinkedIn-Vinicius%20Skonicezny-blue?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/viniskonicezny/)
 
-Self-taught developer,love to automate and my family (not specifically in that order 😅)
+Self-taught developer,love to automate and animations.
 
-- 🌱 I’m currently learning everything (Not Really🤣
+- 🌱 I’m currently learning Rust (and everything else 😂)
 - 👯 international hackathons are doubly defying
 - 🥅 2020 Goals: Mastering the basic, and shipping more
 - 🥋 I love sports, specially jiu-jtsu
@@ -35,10 +35,9 @@ Self-taught developer,love to automate and my family (not specifically in that o
 <br />
 
 ---
+<br>
 
-## <br>
-
-### 📜 Latest Posts
+### 📜 Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Setting up my git facelift](https://dev.to/visko93/setting-up-my-git-facelift-1477)
@@ -51,8 +50,7 @@ Self-taught developer,love to automate and my family (not specifically in that o
 <summary>:zap: GitHub Stats</summary>
 <hr>
 
-![Vini's github stats](https://github-readme-stats-vsko.vercel.app/api?username=visko93&show_icons=true&theme=dark)
-
+<img width="100" align="center" src="https://github-readme-stats-vsko.vercel.app/api?username=visko93&show_icons=true&theme=dark">
 <br>
 <br>
 <summary>:zap: Recent GitHub Activity</summary>
