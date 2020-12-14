@@ -50,7 +50,7 @@ Self-taught developer,love to automate and animations.
 <summary>:zap: GitHub Stats</summary>
 <hr>
 
-<img width="100" align="center" src="https://github-readme-stats-vsko.vercel.app/api?username=visko93&show_icons=true&theme=dark">
+<img width="100%" align="center" src="https://github-readme-stats-vsko.vercel.app/api?username=visko93&show_icons=true&theme=dark">
 <br>
 <br>
 <summary>:zap: Recent GitHub Activity</summary>
