@@ -47,15 +47,14 @@ Self-taught developer,love to automate and animations.
 
 ---
 
-| <summary>:zap: GitHub Stats</summary> | Repositories  |
-| :---: | :---: |
-| <img width="50%" align="center" src="https://github-readme-stats-vsko.vercel.app/api?username=visko93&show_icons=true&theme=dark"> | |                                                                                                                                                       |                                                                                                                                                                 |
+|                                                                <summary>:zap: GitHub Stats</summary>                                                                |                                                                                                                                                                 |
 | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|                 <img width="100%" align="center" src="https://github-readme-stats-vsko.vercel.app/api?username=visko93&show_icons=true&theme=dark">                 |                                                                                                                                                                 |
+|                                                                            Repositories                                                                             |                                                                                                                                                                 |
 | [![ReadMe Card](https://github-readme-stats-vsko.vercel.app/api/pin/?username=visko93&repo=Ecoleta_NWL&theme=dark)](https://github.com/visko93/github-readme-stats) | [![ReadMe Card](https://github-readme-stats-vsko.vercel.app/api/pin/?username=visko93&repo=github_battle&theme=dark)](https://github.com/visko93/github_battle) |
-|      [![ReadMe Card](https://github-readme-stats-vsko.vercel.app/api/pin/?username=visko93&repo=MovieScrap&theme=dark)](https://github.com/visko93/MovieScrap)      |       [![ReadMe Card](https://github-readme-stats-vsko.vercel.app/api/pin/?username=visko93&repo=BeerApp&theme=dark)](https://github.com/visko93/BeerApp)       | |
+|      [![ReadMe Card](https://github-readme-stats-vsko.vercel.app/api/pin/?username=visko93&repo=MovieScrap&theme=dark)](https://github.com/visko93/MovieScrap)      |       [![ReadMe Card](https://github-readme-stats-vsko.vercel.app/api/pin/?username=visko93&repo=BeerApp&theme=dark)](https://github.com/visko93/BeerApp)       |
 
 <hr>
-
 
 <br>
 <br>
@@ -65,11 +64,10 @@ Self-taught developer,love to automate and animations.
 
 <!--END_SECTION:activity-->
 
+<br>
+<br>
 
-|                                                                                                                                                       |                                                                                                                                                                 |
-| :-----------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| [![ReadMe Card](https://github-readme-stats-vsko.vercel.app/api/pin/?username=visko93&repo=Ecoleta_NWL&theme=dark)](https://github.com/visko93/github-readme-stats) | [![ReadMe Card](https://github-readme-stats-vsko.vercel.app/api/pin/?username=visko93&repo=github_battle&theme=dark)](https://github.com/visko93/github_battle) |
-|      [![ReadMe Card](https://github-readme-stats-vsko.vercel.app/api/pin/?username=visko93&repo=MovieScrap&theme=dark)](https://github.com/visko93/MovieScrap)      |       [![ReadMe Card](https://github-readme-stats-vsko.vercel.app/api/pin/?username=visko93&repo=BeerApp&theme=dark)](https://github.com/visko93/BeerApp)       |
+---
 
 [website]: https://visko93.github.io/
 [course]: #
