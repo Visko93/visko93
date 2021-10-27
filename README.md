@@ -8,7 +8,7 @@ Self-taught developer,love to automate and animations.
 
 - 🌱 I’m currently learning Rust (and everything else 😂)
 - 👯 international hackathons are doubly defying
-- 🥅 2020 Goals: Mastering the basic, and shipping more
+- 🥅 2021 Goals: Mastering the basic, and shipping more
 - 🥋 I love sports, specially jiu-jtsu
 
 ### Connect with me:
