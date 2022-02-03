@@ -4,12 +4,11 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/vskonicezny?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=VSkonicezny)
 [![LinkediIn](https://img.shields.io/badge/LinkedIn-Vinicius%20Skonicezny-blue?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/viniskonicezny/)
 
-Self-taught developer,love to automate and animations.
+Self-taught developer, love UI, automation and learn.
 
-- 🌱 I’m currently learning Rust (and everything else 😂)
-- 👯 international hackathons are doubly defying
-- 🥅 2021 Goals: Mastering the basic, and shipping more
-- 🥋 I love sports, specially jiu-jtsu
+- 🌱 I’m currently learning Rust and Blockchain (and everything else 😂)
+- 🥅 2022 Goals: Blockchain, mastering patterns and ship more
+- 🥋 I love sports, specially jiu-jitsu and startuping
 
 ### Connect with me:
 
