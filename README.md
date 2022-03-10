@@ -44,20 +44,6 @@ Self-taught developer, love UI, automation and learn.
 
 ➕ [more posts...](https://dev.to/visko93)
 
----
-
-<br>
-<br>
-<summary>:zap: Recent GitHub Activity</summary>
-<hr>
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
-
-<br>
-<br>
-
----
 
 [website]: https://visko93.github.io/
 [course]: #
