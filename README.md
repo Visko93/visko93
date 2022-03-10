@@ -46,15 +46,6 @@ Self-taught developer, love UI, automation and learn.
 
 ---
 
-|                                                                <summary>:zap: GitHub Stats</summary>                                                                |                                                                                                                                                                 |
-| :-----------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|                 <img width="100%" align="center" src="https://github-readme-stats-vsko.vercel.app/api?username=visko93&show_icons=true&theme=dark">                 |                                                                                                                                                                 |
-|                                                                            Repositories                                                                             |                                                                                                                                                                 |
-| [![ReadMe Card](https://github-readme-stats-vsko.vercel.app/api/pin/?username=visko93&repo=Ecoleta_NWL&theme=dark)](https://github.com/visko93/github-readme-stats) | [![ReadMe Card](https://github-readme-stats-vsko.vercel.app/api/pin/?username=visko93&repo=github_battle&theme=dark)](https://github.com/visko93/github_battle) |
-|      [![ReadMe Card](https://github-readme-stats-vsko.vercel.app/api/pin/?username=visko93&repo=MovieScrap&theme=dark)](https://github.com/visko93/MovieScrap)      |       [![ReadMe Card](https://github-readme-stats-vsko.vercel.app/api/pin/?username=visko93&repo=BeerApp&theme=dark)](https://github.com/visko93/BeerApp)       |
-
-<hr>
-
 <br>
 <br>
 <summary>:zap: Recent GitHub Activity</summary>
