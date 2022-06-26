@@ -6,9 +6,9 @@
 
 Self-taught developer, love UI, automation and learn.
 
-- 🌱 I’m currently learning Rust and Blockchain (and everything else 😂)
-- 🥅 2022 Goals: Blockchain, mastering patterns and ship more
-- 🥋 I love sports, specially jiu-jitsu and startuping
+- 🌱 I’m currently learning Rust (and everything else 😂)
+- 🥅 2022 Goals: 3D Technologies Protifolio, Build more with Rust and SHIP!!
+- 🥋 I love sports, specially jiu-jitsu and gym
 
 ### Connect with me:
 
