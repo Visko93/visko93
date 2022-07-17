@@ -4,7 +4,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/vskonicezny?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=VSkonicezny)
 [![LinkediIn](https://img.shields.io/badge/LinkedIn-Vinicius%20Skonicezny-blue?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/viniskonicezny/)
 
-Self-taught developer, love UI, automation and learn.
+Self-taught developer, UI, automation and learn.
 
 - 🌱 I’m currently learning Rust (and everything else 😂)
 - 🥅 2022 Goals: 3D Projects Portifolio, Build more with Rust and SHIP!!
