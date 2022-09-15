@@ -38,6 +38,7 @@ Self-taught developer, UI, automation and learn.
 ### 📜 Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [New Post](https://dev.to/visko93/new-post-4nd8)
 - [Setting up my git facelift](https://dev.to/visko93/setting-up-my-git-facelift-1477)
 <!-- BLOG-POST-LIST:END -->
 
