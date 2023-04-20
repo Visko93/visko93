@@ -6,7 +6,7 @@
 
 Self-taught developer, UI, automation and learn.
 
-- 🌱 I’m currently learning Rust (and everything else 😂)
+- 🌱 I’m currently learning Rust and more web 3D/Graphics.
 - 🥅 2023 Goals: 3D Projects Portifolio, Build more with Rust and SHIP!!
 - 🥋 I love sports, specially jiu-jitsu and gym
 
